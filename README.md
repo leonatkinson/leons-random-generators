@@ -4,13 +4,11 @@ Leon's Random Generators as WordPress Gutenberg blocks and a Node.js text genera
 
 ## Installation
 
-1. Clone or place this repository into your WordPress plugins directory (`wp-content/plugins/leons-random-generators`).
-2. Run `npm install` inside the plugin directory to install dependencies.
-3. Build the assets for production:
-   ```bash
-   npm run build
-   ```
-4. Activate the plugin in your WordPress admin dashboard.
+1. Clone or place this repository into your WordPress plugins directory (`wp-content/plugins/leons-random-generators`).  Alternatively, use `wp-cli` to install the plugin
+   like this: `wp plugin install --force https://github.com/leonatkinson/leons-random-generators/archive/refs/heads/master.zip`
+2. Activate the plugin in your WordPress admin dashboard.
+3. Optionally, get a Flickr API key and enter it in settings.
+4. Add one of the nine blocks into a page. The generator will preview exactly as it appears on the public side.
 
 ## Configuring Flickr API for Album Covers
 
@@ -18,6 +16,14 @@ By default, album covers use a random solid background color. To pull photos fro
 1. Navigate to **Settings > Leon's Random Generators** in your WordPress admin.
 2. Enter your Flickr API key in the password field.
 3. Click **Save Changes**.
+
+## Development
+
+1. Run `npm install` inside the plugin directory to install dependencies.
+2. Build the assets for production:
+   ```bash
+   npm run build
+   ```
 
 ## Command-Line Scripts
 
