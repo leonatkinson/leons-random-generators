@@ -13,9 +13,9 @@
     "build-dictionary": "node scripts/csv-to-json.js"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^3.2.7",
-    "@wordpress/scripts": "^30.15.0",
-    "vitest": "^3.2.4"
+    "@vitest/coverage-v8": "5.0.3",
+    "@wordpress/scripts": "^36.1.0",
+    "vitest": "5.0.3"
   },
   "dependencies": {
     "html-to-image": "^1.11.13"
