@@ -1,0 +1,117 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`generators > advice is stable for a seed and differs for another 1`] = `
+"NEVER SEE DOGS
+
+--MR BIRD (1112 CE)"
+`;
+
+exports[`generators > album is stable for a seed and differs for another 1`] = `
+"THREE CATS
+THE DOG BAND
+text color: #7c9
+background: #69d3fd"
+`;
+
+exports[`generators > band is stable for a seed and differs for another 1`] = `
+"background: band/6.jpg
+THE DOG WITH THE CATS
+WITH SPECIAL GUESTS:
+SAD CATS FIND MR RED
+RED SAD CAT
+RUNNING QUICKLY
+BIRD
+SADLY RUNNING
+THE TWO DOGS
+CAT BAND"
+`;
+
+exports[`generators > comic is stable for a seed and differs for another 1`] = `
+"CAT
+pane 1: YOU WILL BE RUNNING.
+speaker: center
+sprite: comic/clear.gif
+sprite: comic/girl1.gif
+sprite: comic/smarty1.gif
+pane 2: WHY AREN'T WE SEE US?
+speaker: center
+sprite: comic/smarty4.gif
+sprite: comic/dude3.gif
+sprite: comic/clear.gif
+pane 3: BECAUSE THE LESS THEY SIT, THE LESS THEY SEE A TWO DOGS?
+speaker: right
+sprite: comic/clear.gif
+sprite: comic/thing1.gif
+sprite: comic/headface1.gif"
+`;
+
+exports[`generators > essay is stable for a seed and differs for another 1`] = `
+"LEON WITH SAD DOG
+
+
+
+Therefore they quickly see the red cat and they. The less they find them, the more they see the red cat.
+
+Cat-dog won't be of cats! Dogs sit. Quick mr bird-cat was sitting. They see them. The less dr red sees red birds and cat, the less leon with sad dog sits quickly. Leon with sad dog didn't sit! Proving the fact that never see cat's birds unless you can't run. They won't see window's cat-like cat! Quick mr bird-cat did see ada and birds. They didn't see dogs. The less they run, the more they see sad dog! Red mr bird won't be of cat and cat-like cat. They did see a red cat.
+
+Cats are with dog's two dogs and it. It's better to run than sit. Which proves two birds weren't chasing a cat's cats. They see cat of them and they. The less they see a cats, the less they see them."
+`;
+
+exports[`generators > jokes is stable for a seed and differs for another 1`] = `
+"BEST EXCUSES IF YOU GET CAUGHT WITH THE DOG'S RED CAT 
+
+ 1. ACT LIKE THE DOG'S RED CAT IS RED CAT-WINDOW. 
+
+ 2. SAY " I JUST LIKE TO RUN!" 
+
+ 3. SAY " THE DOG'S RED CAT IS QUICK!" 
+
+4. SAY " HEY! ADA MADE ME DO IT!"
+
+--MR SAD CAT (1502 CE)"
+`;
+
+exports[`generators > lyrics is stable for a seed and differs for another 1`] = `
+"The Cat's Cat Is Red
+
+We won't find mr cat?
+Why do you sit?
+
+You do see us...
+The more two cat-cats sit, the more they see a cats and the cat's cat and a two cat-cats of three dogs and two bird-cats!
+You won't sadly find them.
+The red dogs and cat find dogs...
+The less window-bird and the cat's cat see a cat, the less they find dr bird.
+
+If you are a cat, sit quickly!
+We won't see cat's two cats.
+
+How did a birds sit?
+It's better to see the dog's cat than see quick bird!
+Cats see me.
+You run.
+Cat isn't of a cat's red cats?
+You find sad dogs.
+
+How don't mr red dog and the cat's cat run?
+Bird and the bird's red cat-cats run.
+The cat's cat and the cat's cats and a cat's three dogs and three dogs and mr quick cat-window didn't see a red cat.
+
+If you are red, find the two cats and dr red.
+We didn't see red cat-dogs of the cat and a cat's cat and the cat's cat of them.
+Where there's sad window with me, there's the cat's cat.
+I run!
+I don't see us?"
+`;
+
+exports[`generators > song is stable for a seed and differs for another 1`] = `
+"In the key of G#
+G#    G#    C#    C#    D#7    D#7    G#    G#    
+G#    A#m    D#7    A#    C7    G#    G#7    A#m7    
+G#    G#    C    Cm7    A#    A#m    D#    D#7    
+G#    G#    C#    C#    D#7    D#7    G#    G#    
+G#    A#m    D#7    A#    C7    G#    G#7    A#m7    
+G#    G#    C    Cm7    A#    A#m    D#    D#7    
+
+G#    G#    C    Cm7    A#    A#m    D#    D#7    "
+`;
