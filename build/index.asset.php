@@ -3,5 +3,5 @@
 		'wp-blocks',
 		'wp-element'
 	),
-	'version' => '080cfa545186c6428616'
+	'version' => '3ced29f21b18b94e056f'
 );

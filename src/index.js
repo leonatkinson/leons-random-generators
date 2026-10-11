@@ -47,7 +47,7 @@ function Edit({ name }) {
 GENERATORS.forEach((name) => {
   registerBlockType(`leons-random-generators/${name}`, {
     apiVersion: 3,
-    title: TITLES[name],
+    title: `LRG ${TITLES[name]}`,
     category: 'leons-random-generators',
     icon: 'randomize',
     edit: () => createElement(Edit, { name }),

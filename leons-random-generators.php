@@ -87,7 +87,7 @@ add_action('init', function () {
     ];
     foreach ($generators as $name => $title) {
         register_block_type('leons-random-generators/' . $name, [
-            'title' => $title,
+            'title' => "LRG " . $title,
             'category' => 'leons-random-generators',
             'editor_script' => 'leons-random-generators-editor',
             'style' => 'leons-random-generators-style',
