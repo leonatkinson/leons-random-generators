@@ -24,6 +24,7 @@ By default, album covers use a random solid background color. To pull photos fro
    ```bash
    npm run build
    ```
+Build artifacts in `./build` are checked in because the plugin requires them at runtime.
 
 ## Command-Line Scripts
 
@@ -63,7 +64,6 @@ If you modify `src/data/dictionary.csv`, you can compile it into `src/data/dicti
 ```bash
 npm run build-dictionary
 ```
-*(Note: `npm run build` also automatically builds the dictionary before compiling the WordPress blocks.)*
 
 Run unit tests:
 ```bash
